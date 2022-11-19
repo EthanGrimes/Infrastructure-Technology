@@ -1,1 +1,2 @@
-# CIS-200_Student_Programs
+# Repository contains CMD and Linux Assignments
+
